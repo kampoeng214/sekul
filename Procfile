@@ -1,1 +1,1 @@
-web: sekulweb.wsgi --log-file -
+web: sekulweb.wsgi
