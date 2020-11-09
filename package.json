@@ -1,0 +1,19 @@
+{
+  "name": "sekul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/kampoeng214/sekul.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/kampoeng214/sekul/issues"
+  },
+  "homepage": "https://gitlab.com/kampoeng214/sekul#readme"
+}
